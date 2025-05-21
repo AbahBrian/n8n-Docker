@@ -1,2 +1,2 @@
 # n8n-Docker
-Docker Compose n8n untuk CasaOS
+Gunakan CasaOS Custom Install, dan Upload Docker Compose nya.
